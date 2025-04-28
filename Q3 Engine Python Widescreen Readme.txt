@@ -1,0 +1,2 @@
+NOTE: This is pre-liminary code that I am working on to create Python script to turn any Q3 Engine based game to automatically change game resolution with user input without having to do it manually 
+from the config file. This code is a work in progress. 

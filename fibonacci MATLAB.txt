@@ -1,0 +1,9 @@
+n = input('Enter the term you want to see ')
+f(1) = 1;
+f(2) = 2;
+for i = 3:n   
+ f(i) = f(i-1) + f(i-2)    
+  fib = f(i-1)
+end
+disp('The number is ')
+disp(fib)
